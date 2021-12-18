@@ -1,24 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+//import?
 
 function App() {
+  //initialize your state(s)
+
+  //create "addItem" function that updates the list from user input
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <h1>Your code here!</h1>
+    /*replace  with your code returning the following:  
+      - form with the input field to caputure each item
+      - list of added items
+  */
   );
 }
 
